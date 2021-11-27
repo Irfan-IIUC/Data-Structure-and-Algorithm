@@ -5,6 +5,7 @@
 */
 
 #include<stdio.h>
+
 int main()
 {
     int way[100]={0}, coin[2]={1, 2}, k=2, n=4, i, j;
