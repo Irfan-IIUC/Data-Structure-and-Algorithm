@@ -5,6 +5,7 @@
 */
 
 #include<stdio.h>
+
 int main()
 {
     int way[50], n=4, i;
