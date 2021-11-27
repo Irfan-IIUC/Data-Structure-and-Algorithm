@@ -8,6 +8,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int main()
 {
     vector<int> v{2, 4, 8, 12, 15};
