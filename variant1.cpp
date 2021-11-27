@@ -5,6 +5,7 @@
 */
 
 #include<stdio.h>
+
 int main()
 {
     int possible[100]={0}, coin[3]={4,7,15}, k=3, n=15, i, j;
@@ -12,7 +13,7 @@ int main()
 
     for(i=1; i<=n; i++)
     {
-        for(j=0; j<3; j++)
+        for(j=0; j<k; j++)
         {
             if(i>=coin[j])
             {
