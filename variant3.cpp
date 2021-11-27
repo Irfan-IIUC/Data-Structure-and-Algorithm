@@ -6,6 +6,7 @@
 */
 
 #include<stdio.h>
+
 int main()
 {
     int dp[100]={0}, coin[3]={4,7,10}, k=3, n=14, i, j;
